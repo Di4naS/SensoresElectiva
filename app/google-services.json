@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640794172089",
+    "project_id": "tallerevaluativoelectiva-c5996",
+    "storage_bucket": "tallerevaluativoelectiva-c5996.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640794172089:android:fb279b6f929e76b5e5d968",
+        "android_client_info": {
+          "package_name": "com.example.tallerevaluativoelectiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqz_GykEaX_1DWlJwYGjCt6om4I8BmxtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
