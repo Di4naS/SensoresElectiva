@@ -64,7 +64,8 @@ fun HomeScreen(navController: NavController) {
             modifier = Modifier
                 .padding(padding)
                 .fillMaxSize(),
-            verticalArrangement = Arrangement.spacedBy(16.dp)
+            verticalArrangement = Arrangement.Center, // centra verticalmente
+            horizontalAlignment = Alignment.CenterHorizontally // centra horizontalmente
         ) {
             // Botón para abrir la pantalla de proximidad
             Button(onClick = { navController.navigate("Proximidad") }) {
