@@ -23,6 +23,7 @@ import com.example.tallerevaluativoelectiva.viewmodels.MotionViewModel
 import com.example.tallerevaluativoelectiva.models.ReportItem
 import com.example.tallerevaluativoelectiva.viewmodels.ReportsViewModel
 import androidx.compose.foundation.lazy.items
+import androidx.compose.ui.Alignment
 import com.example.tallerevaluativoelectiva.ui.theme.RojoLejos
 import com.example.tallerevaluativoelectiva.ui.theme.VerdeCercano
 
